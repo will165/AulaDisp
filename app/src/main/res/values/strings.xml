@@ -2,8 +2,15 @@
     <string name="app_name">GeoQuiz</string>
     <string name="button_true">True</string>
     <string name="button_false">False</string>
+    <string name="button_next">Next</string>
     <string name="errado">Incorrect</string>
     <string name="certo">Correct</string>
     <string name="question"><![CDATA[Android > IOS ?]]></string>
     <string name="no_imple">Not implemented</string>
+    <string name="aaa">aaaaa</string>
+    <string name="question1"><![CDATA[Android > iOS]]></string>
+    <string name="question2">Bill Gates fundou a Apple e se tornou o homem mais rico do mundo.</string>
+    <string name="question3">Coca-cola faz muito bem para saúde se tomar 2 litros por dia.</string>
+    <string name="question4">Tonga é um país da África.</string>
+    <string name="question5">LOL > DOTA</string>
 </resources>
